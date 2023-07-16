@@ -14,15 +14,13 @@
 
 <div align="center">
 
-| 🌸🌸 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thinhdao16&theme=monokai)<br/> | 🌸🌸 |
-| -------- | -------- | -------- |
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thinhdao16&theme=monokai)<br/> 
   
 </div>
 
 <div align="center">
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhdao16&show_icons=true&theme=radical) | 🌸Thank you so much for coming to my house🌸 |
-| -------- | -------- |
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhdao16&show_icons=true&theme=radical) 
   
 
 
